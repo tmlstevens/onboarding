@@ -1,0 +1,18 @@
+.form {
+    max-width: 800px;
+    background-color: rgba(235, 235, 235, 0.95);
+    padding: 6rem 4rem 3rem;
+    /* padding-right: 6rem; */
+    border-radius: 10px;
+    margin-right: auto;
+    margin-left: auto;
+  
+}
+.mybutton {
+    font-size: 1.15rem !important;
+    margin-left: calc(50% - 32px);
+}
+
+.break-txt {
+    hyphens: auto;
+}
